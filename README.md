@@ -106,7 +106,7 @@ The table compares the **sum** and **carry-out** outputs of the **exact full add
 
 - **Project Guide**: Prof. [ANITHA JULIETTE], [ECE], [Loyola ICAM College of Enginering and Technology (LICET), Chennai] – [LinkedIn](linkedin.com/in/anitha-juliette-3a466163)
 - **Team Members**:
-  - [KARTHIKEYAN S] – [LinkedIn](linkedin.com/in/karthikeyan-s-ece)
+  - [KARTHIKEYAN S] – [LinkedIn](https://www.linkedin.com/in/linkedin.com/in/karthikeyan-s-ece)
   - [DHINAKARAN A] – [LinkedIn](linkedin.com/in/dhinakaran-a-206944256)
   - [BHARATHAN K] – [LinkedIn](linkedin.com/in/bharathan-k-5abb3b26a)
   - [SESHANTH] – [LinkedIn](https://www.linkedin.com/in/teammate3)
