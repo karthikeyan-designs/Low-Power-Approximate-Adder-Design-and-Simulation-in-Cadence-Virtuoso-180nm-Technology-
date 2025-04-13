@@ -52,7 +52,7 @@ The table below compares the **sum** and **carry-out** outputs of the **exact fu
 The **TGA1** circuit has an **Error Distance (ED)** of **2**, which measures the total deviation of its output from the exact full adder. This small error makes it suitable for applications where **energy efficiency** is more important than **perfect accuracy**.
 
 
-   ## 📷 Images
+   ## 📷 Schematic & Simulation Results
 
 ### 🔸 TGA 1 Circuit Schematic  
 ![TGA 1 Schematic](screenshots/TGA1_Schematic.png)
