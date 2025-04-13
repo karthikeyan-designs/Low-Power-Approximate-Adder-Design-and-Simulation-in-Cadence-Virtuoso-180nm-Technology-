@@ -104,9 +104,9 @@ The table compares the **sum** and **carry-out** outputs of the **exact full add
 [📎 ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S2210537921000226)
 ## 👥 Team & Supervision
 
-- **Project Guide**: Prof. [ANITHA JULIETTE], [ECE], [Loyola ICAM College of Enginering and Technology (LICET), Chennai] – [LinkedIn](https://www.linkedin.com/in/anitha-juliette-3a466163)
+- **Project Guide**: Prof.ANITHA JULIETTE, Department of ECE, Loyola ICAM College of Enginering and Technology (LICET), Chennai – [LinkedIn](https://www.linkedin.com/in/anitha-juliette-3a466163)
 - **Team Members**:
-  - [KARTHIKEYAN S] – [LinkedIn](https://www.linkedin.com/in/karthikeyan-s-ece)
-  - [DHINAKARAN A] – [LinkedIn](https://www.linkedin.com/in/dhinakaran-a-206944256)
-  - [BHARATHAN K] – [LinkedIn](https://www.linkedin.com/in/bharathan-k-5abb3b26a)
-  - [SESHANTH] – [LinkedIn](https://www.linkedin.com/in/teammate3)
+  - KARTHIKEYAN S – [LinkedIn](https://www.linkedin.com/in/karthikeyan-s-ece)
+  - DHINAKARAN A – [LinkedIn](https://www.linkedin.com/in/dhinakaran-a-206944256)
+  - BHARATHAN K – [LinkedIn](https://www.linkedin.com/in/bharathan-k-5abb3b26a)
+  - SESHANTH R – [LinkedIn](https://www.linkedin.com/in/teammate3)
