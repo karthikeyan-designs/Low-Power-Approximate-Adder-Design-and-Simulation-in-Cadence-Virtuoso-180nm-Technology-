@@ -24,4 +24,21 @@ The work focuses on reducing power consumption while maintaining acceptable perf
 - **LAHAF: Low-power, area-efficient, and high-performance approximate full adder based on static CMOS**  
   *A. Khoshavi, S. Asgarinejad, S. K. Mohammadi, M. Fazeli*  
   [📎 ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S2210537921000226)
-  
+  ## Circuit Diagram
+
+   ![TGA 1 Schematic](screenshots/TGA1_Circuit.png)
+
+   ## 📷 Screenshots
+
+### 🔸 TGA 1 Circuit Schematic  
+![TGA 1 Schematic](screenshots/TGA1_Schematic.png)
+
+### 🔸 Transient Simulation Waveform  
+![Waveform](screenshots/TGA1_Simulation_Results.png)
+
+### 🔸 TGA 1 Power Graph  
+![TGA 1 Schematic](screenshots/TGA1_Power_Graph.png)
+
+### 🔸 TGA 1 Average Power 
+![Waveform](screenshots/TGA1_AveragePOWER.png)
+
