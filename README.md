@@ -27,11 +27,36 @@ The work focuses on reducing power consumption while maintaining acceptable perf
   ## Circuit Diagram
 
    ![TGA 1 Schematic](screenshots/TGA1_Circuit.png)
+  ## 🧩 TGA 1 Circuit Description
 
-   ## 📷 Screenshots
+The **TGA 1** approximate full adder is built using **16 transistors**, combining **Static CMOS logic** and **Transmission gate logic**. A key feature of this design is that the **carry-out (Cout)** is directly taken from the input **Bin**, meaning:
+
+> **Cout = Bin**
+
+This simplification significantly reduces the transistor count and power consumption, which are essential advantages for **approximate computing** applications such as image processing and machine learning, where perfect accuracy is not always necessary.
+
+---
+
+## 🧮 TGA 1 Equations
+
+![TGA 1 Equations](screenshots/TGA1_Eq.png)
+
+---
+
+## 🔍 Comparison Between the Exact Full Adder and TGA1 Outputs
+
+The table below compares the **sum** and **carry-out** outputs of the **exact full adder** and the **TGA1** approximate full adder. Mismatches are marked with a **✗**, while correct matches are indicated with a **✓**.
+
+![Truth Table Comparison](screenshots/truth_table.png)
+
+The **TGA1** circuit has an **Error Distance (ED)** of **2**, which measures the total deviation of its output from the exact full adder. This small error makes it suitable for applications where **energy efficiency** is more important than **perfect accuracy**.
+
+
+   ## 📷 Images
 
 ### 🔸 TGA 1 Circuit Schematic  
 ![TGA 1 Schematic](screenshots/TGA1_Schematic.png)
+
 
 ### 🔸 Transient Simulation Waveform  
 ![Waveform](screenshots/TGA1_Simulation_Results.png)
