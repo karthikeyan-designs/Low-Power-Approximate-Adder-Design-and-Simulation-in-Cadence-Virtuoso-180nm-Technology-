@@ -100,7 +100,7 @@ The table compares the **sum** and **carry-out** outputs of the **exact full add
 ## 📚 Reference
 
 **LAHAF: Low-power, area-efficient, and high-performance approximate full adder based on static CMOS**  
-*A. Khoshavi, S. Asgarinejad, S. K. Mohammadi, M. Fazeli*  
+*Seyed Erfan Fatemieh, Samira Shirinabadi Farahani, Mohammad Reza Reshadinezhad*  
 [📎 ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S2210537921000226)
 ## 👥 Team & Supervision
 
